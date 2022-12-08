@@ -8,7 +8,7 @@ pipeline{
         jdk "java_08"
     }
     environment{
-        APP_NAME='suggest-library'
+        APP_NAME='suggest-lib-mbp'
     }
     stages{
         stage("Checkout"){
